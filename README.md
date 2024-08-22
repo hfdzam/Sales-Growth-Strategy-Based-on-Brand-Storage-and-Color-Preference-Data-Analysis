@@ -20,5 +20,10 @@ For validation, check out [this Jupyter Notebook](P2M3_hafidz_masruri_GX.ipynb).
 
 ![Sales Data Visualization](images/intro.png)
 ![Sales Data Visualization](images/plot01.png)
+![Sales Data Visualization](images/plot02.png)
+![Sales Data Visualization](images/plot03.png)
+![Sales Data Visualization](images/plot04.png)
+![Sales Data Visualization](images/plot05.png)
+![Sales Data Visualization](images/plot06.png)
 ![Sales Data Visualization](images/kesimpulan.png)
 
