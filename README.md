@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes smartphone sales data to uncover market trends related to brand popularity, storage capacities, and color preferences. The goal is to provide actionable insights that help optimize sales strategies, inventory management, and marketing efforts, thereby enhancing customer satisfaction and overall business performance.## Overview
+This project analyzes smartphone sales data to uncover market trends related to brand popularity, storage capacities, and color preferences. The goal is to provide actionable insights that help optimize sales strategies, inventory management, and marketing efforts, thereby enhancing customer satisfaction and overall business performance.
 
 ## Notebook Purpose
 
