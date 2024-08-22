@@ -16,5 +16,4 @@ For details and to view the script, check out [this Python script](P2M3_hafidz_m
 
 For validation, check out [this Jupyter Notebook](P2M3_hafidz_masruri_GX.ipynb).
 
-Myelastic search
-[Sales Data Visualization](images/introduction & objective.png)
+![Sales Data Visualization](images/sales_data.png)
