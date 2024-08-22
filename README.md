@@ -18,7 +18,7 @@ For validation, check out [this Jupyter Notebook](P2M3_hafidz_masruri_GX.ipynb).
 
 ## My Kibana Visualization
 
-![Sales Data Visualization](images/introduction & objective.png)
-
+![Sales Data Visualization](images/intro.png)
+![Sales Data Visualization](images/plot01.png)
 ![Sales Data Visualization](images/kesimpulan.png)
 
