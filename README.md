@@ -1,4 +1,4 @@
-# Classification Model for Customer Payment Default Prediction
+# Sales Growth Strategy Based on Brand Storage and Color Preference Data Analysis
 
 ## Project Overview
 
